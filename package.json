@@ -1,12 +1,12 @@
 {
-  "homepage": "https://31Pratishtha.github.io/Responsive-Landing-Page/",
+  "homepage": "https://31Pratishtha.github.io/Responsive-Landing-Page",
   "name": "react-project-1",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm run build",
+    "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
