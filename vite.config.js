@@ -3,6 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: "/Responsive-Landing-Page",
   plugins: [react()],
   server: {
     watch: {
