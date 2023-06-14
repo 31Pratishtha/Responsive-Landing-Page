@@ -19,14 +19,14 @@ function Footer() {
 
       <StyledFooter>
         <StyledContact>
-            <img src="./src/assets/images/logo_white.svg" alt="" className="whiteLogo"/>
+            <img src="./assets/images/logo_white.svg" alt="" className="whiteLogo"/>
             <p className="whiteLogo">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates ut officia sint, a architecto itaque?</p>
             <div className="contact">
-              <img src="./src/assets/images/icon-phone.svg" alt=""/>
+              <img src="./assets/images/icon-phone.svg" alt=""/>
               <p>Phone: +1-543-123-4567</p>
             </div>
             <div className="contact">
-              <img src="./src/assets/images/icon-email.svg" alt=""/>
+              <img src="./assets/images/icon-email.svg" alt=""/>
               <p>example@huddle.com</p>
             </div>
             <StyledSocialIcons>

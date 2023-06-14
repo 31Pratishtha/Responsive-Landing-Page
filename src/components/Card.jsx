@@ -27,7 +27,7 @@ function Card({ item: { id, title, body, image } }) {
           <p>{body}</p>
         </StyledCardBody>
         <StyledCardImage
-          src={`./src/assets/images/${image}`}
+          src={`./assets/images/${image}`}
           alt=""
         ></StyledCardImage>
       </StyledCard>

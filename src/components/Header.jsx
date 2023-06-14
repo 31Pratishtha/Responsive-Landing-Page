@@ -10,7 +10,7 @@ function Header() {
     <StyledHeader>
       <Container>
         <Nav>
-          <Logo src="./src/assets/images/logo.svg" alt="" />
+          <Logo src="./assets/images/logo.svg" alt="" />
           <Button>Try It Free</Button>
         </Nav>
         <Flex>
@@ -34,7 +34,7 @@ function Header() {
               Get Started For Free
             </Button>
           </HeaderDiv>
-          <Image src="./src/assets/images/screen-mockups.svg" alt=""></Image>
+          <Image src="./assets/images/screen-mockups.svg" alt=""></Image>
         </Flex>
       </Container>
     </StyledHeader>
