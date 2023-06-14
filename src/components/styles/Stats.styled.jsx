@@ -22,5 +22,6 @@ export const StyledStats = styled.div`
 
     @media screen and (max-width: ${({theme}) => theme.mobile}){
         flex-direction: column;
+        padding: 0px 10px;
     }
 `
